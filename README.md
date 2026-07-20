@@ -1,4 +1,3 @@
-# Ram Viyaas
 # RTtoolbox3 - Mitsubishi 6-Axis Cobot Tutorial
 
 Simulation exercises for controlling a Mitsubishi 6-axis collaborative robot using RTToolBox3.
